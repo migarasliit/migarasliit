@@ -7,9 +7,9 @@
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=migarasliit&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
