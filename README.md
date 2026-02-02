@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Migara Wijesinghe
- 
+
+SE Undergraduate 
  
  
 # 💻 Tech Stack:
