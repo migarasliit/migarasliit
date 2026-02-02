@@ -1,6 +1,24 @@
 # 💫 Hi 👋, I'm Migara Wijesinghe
 
-SE Undergraduate 
+<h3 align="center">SE Undergraduate </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=22&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Explorer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  🚀 Passionate about building practical solutions and exploring all IT fields  
+</p>
+
+---
+
+## 👨‍💻 About Me  
+
+🎓 SE Undergraduate at **SLIIT**  
+📚 Always learning & improving  
+🎯 Looking for **internship opportunities**  
+
+---
  
  
 # 💻 Tech Stack:
