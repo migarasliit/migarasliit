@@ -10,6 +10,8 @@
   Passionate about building practical software solutions and continuously learning new technologies
  </p>
 
+<img src="https://komarev.com/ghpvc/?username=migarasliit&label=Profile%20Views&color=38BDF8&style=flat" />
+
 ---
 
 👨‍💻 About Me
