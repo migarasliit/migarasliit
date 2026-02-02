@@ -3,20 +3,22 @@
 <h3 align="center">SE Undergraduate </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=22&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Explorer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;IT+Undergraduate;Project-Driven+Learner;Self-Learner;Always+Improving" />
 </p>
 
 <p align="center">
-  🚀 Passionate about building practical solutions and exploring all IT fields  
-</p>
+  Passionate about building practical software solutions and continuously learning new technologies
+ </p>
 
 ---
 
-## 👨‍💻 About Me  
+👨‍💻 About Me
 
-🎓 SE Undergraduate at **SLIIT**  
-📚 Always learning & improving  
-🎯 Looking for **internship opportunities**  
+🎓 SE Undergraduate at SLIIT
+💻 Aspiring Full Stack Developer
+🛠️ Hands-on experience with real-world projects
+📚 Fast self-learner with a growth mindset
+🎯 Seeking software engineering internships  
 
 ---
  
