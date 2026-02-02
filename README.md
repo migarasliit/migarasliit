@@ -12,12 +12,16 @@
 
 ---
 
-##👨‍💻 About Me
+👨‍💻 About Me
 
 🎓 SE Undergraduate at **SLIIT**
+
 💻 Aspiring Full Stack Developer
+
 🛠️ Hands-on experience with real-world projects
+
 📚 Fast self-learner with a growth mindset
+
 🎯 Seeking **software engineering internships**  
 
 ---
